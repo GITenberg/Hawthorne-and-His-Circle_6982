@@ -1,5 +1,8 @@
 _repo: Hawthorne-and-His-Circle_6982
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hawthorne, Julian
@@ -13,6 +16,8 @@ description: Nathaniel Hawthorne's circle included Emerson, Thoreau, Melville, H
   son's-eye-view, published in 1884, portrays the up-and-down life, work, and travels
   of a literary genius and his friends and associates in a time of intellectual ferment
   and social upheaval.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6982#Hawthorne-and-His-Circle
 gutenberg_issued: '2004-11-01'
 gutenberg_type: Text
 identifiers:
